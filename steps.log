@@ -1,7 +1,7 @@
 Faced several issues with git bash. still not successful. so switching to git desktop
 noting down useful commands to clone
 
-check ssh here:  ssh -T git@github.com. if issue generate new ssh
+check ssh here:  ssh -T git@github.com. if issue, generate new ssh
 ssh-keygen -t rsa -b 4096 -C "btnaveenkumar@gmail.com"
  eval $(ssh-agent -s)
   ssh-add ~/.ssh/id_rsa
