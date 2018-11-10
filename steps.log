@@ -11,8 +11,7 @@ ssh-keygen -t rsa -b 4096 -C "btnaveenkumar@gmail.com"
   
 git remote set-url origin git@github.com:nbkumar/nucleo_led_blink.git
 git remote add origin git@github.com:nbkumar/nucleo_led_blink.git
- git clone https://github.com/nbkumar/nucleo_led_blink -- this is good. able to clone from website
- 
+git clone https://github.com/nbkumar/nucleo_led_blink -- this is good. able to clone from website
 but not able to commit changes to website. so switched to git desktop mode
 
 
